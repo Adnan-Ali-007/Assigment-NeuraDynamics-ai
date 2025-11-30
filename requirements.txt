@@ -1,0 +1,12 @@
+langchain
+langgraph
+langchain-community
+langchain-text-splitters
+qdrant-client
+pypdf
+python-dotenv
+streamlit
+requests
+pytest
+langsmith
+google-generativeai
